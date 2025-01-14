@@ -1,2 +1,2 @@
-# 2018passsoutBatch
+# 2018PasssoutBatch
 2018 passout students 
